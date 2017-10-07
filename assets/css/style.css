@@ -1,0 +1,35 @@
+body {
+	font-family: "Times New Roman", Times, Sans-sarif, serif;
+}
+
+h1 {
+	padding-top: 10px;
+	text-align: center;
+}
+
+.heading {
+	font-weight: bold;
+	font-size: 40px;
+	padding-bottom: 20px;
+}
+
+h3 {
+	font-size: 24px;
+	padding-bottom: 20px;
+}
+
+p {
+	padding: 5px 5px;
+}
+
+.green {
+	color: green;
+}
+
+.red {
+	color: red;
+}
+
+.purple {
+	color: #ee82ee;
+}
